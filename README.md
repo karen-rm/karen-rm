@@ -3,7 +3,7 @@
 - 🧑‍🎓 Bachelor of Science in Information Technology Engineering.
 - 🔭 Focus on improving my skills in designing and developing scalable full-stack solutions.
 - 🌱 I’m currently learning DevOps & Cloud 
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: UNO gets too competitive when I play.
 <!-- - 💻 Junior FullStack developer -->
 <!-- - 💥 You can visit MY WEBSITE -->
 
@@ -57,8 +57,5 @@
 
 
 <p align="center">
-  Made with :heart: &nbsp;using GitHub Markdown
-  <br />
-  <br />
   <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
 </p>
