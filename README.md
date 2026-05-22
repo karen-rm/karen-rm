@@ -52,9 +52,7 @@
   <!-- <a href="https://"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a> -->
 	<a href="mailto:ak.ramirezmar@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/karen-rm"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/ana-karen-ramirez-martinez-889967310/">
-  <img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/>
-</a>
+	<a href="https://linkedin.com/in/ana-karen-ramírez-martínez-889967310/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 </p>
 
 
