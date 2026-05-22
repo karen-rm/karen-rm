@@ -1,16 +1,13 @@
-## Hi there 
+## 🌸 Hi , I'm Karen 
 
 - 🧑‍🎓 Bachelor of Science in Information Technology Engineering.
-- 💻 Junior FullStack developer.
-- 🔭 I’m currently working on create tech solutions 
+- 🔭 Focus on improving my skills in designing and developing scalable full-stack solutions.
 - 🌱 I’m currently learning DevOps & Cloud 
 - ⚡ Fun fact: ...
+<!-- - 💻 Junior FullStack developer -->
 <!-- - 💥 You can visit MY WEBSITE -->
 
-
-
-### 🛠 &nbsp;Tech Stack
-
+## 🛠 &nbsp; Tech Stack
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
@@ -33,24 +30,18 @@
 <!--![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;-->
 <!--![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;-->
 
-
-<div align=center>
-  <h1> Mis estadisticas </h1> 
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" align=center> 
-<br>
-  </div>
-<div align=center>
-<!--- stats & Trophy (start) -->
+## 📊 &nbsp; GitHub Stats
+<div align="center">
+<!-- Stats -->
 <a href="https://github.com/karen-rm">
-  <img height="180em"  width=42% src="https://github-readme-stats-eight-theta.vercel.app/api?username=karen-rm&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em"  width=42% src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=karen-rm&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" width="42%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=karen-rm&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="42%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=karen-rm&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-</div>
-<!--- trophy (start) -->
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=karen-rm&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
+<br><br>
+<!-- Trophy -->
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width="84%" src="https://github-profile-trophy.vercel.app/?username=karen-rm&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="Trophy"/>
+</a>
 </div>
 
 
@@ -58,14 +49,10 @@
 
 ## 🙋‍♀️ Let's Connect
 <p align="center">
-  <a href="https://candida-noronha."><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
-	<a href="mailto:candida.noronha18@gmail.c"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://github.com/Candida1"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://linkedin.com/in/cadida-ruth-noronha-b019101ab"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/andida.noronha.77"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
-	<a href="https://instagram.com/cadyyyy__18"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	<a href="https://www.youtube.comchannel/UC7V1Gm8V0kRLp_EHB8aDj2A"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a>
-	
+  <!-- <a href="https://"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a> -->
+	<a href="mailto:ak.ramirezmar@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="https://github.com/karen-rm"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/ana-karen-ram%C3%ADrez-mart%C3%ADnez-889967310/"><img 			src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 </p>
 
 
